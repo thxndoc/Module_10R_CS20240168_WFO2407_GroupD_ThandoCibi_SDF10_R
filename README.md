@@ -4,7 +4,7 @@
 
 Create a mobile app using Firebase and Scrimba. This project will enhance your CSS and JavaScript skills, focusing on mobile app development.
 
-![shopping cart app reference image](<./assets/mobile-app.png.png>)
+![shopping cart app reference image](<./assets/mobile-app.png>)
 
 
 ## Steps to Complete
